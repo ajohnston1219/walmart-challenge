@@ -1,0 +1,19 @@
+
+   The following environment variables have been set.
+
+   $MYPYTHONDIR - references your $SCRATCH/myAnaconda3/5.1.0 directory
+   $MYCREATEVIRTENV [--file <venvfile>] - should only be used once to create a
+virtual environment
+   $MYACTIVATE - should be used whenever you want to add new Python modules
+   $MYDEACTIVATE - deactivate the virtual environment
+
+   Additionally, $PYTHONPATH is updated so your modules can be used
+   with non-virtual (regular) Python.
+
+   For more information, see: https://hprc.tamu.edu/wiki/index.php/SW:Python
+
+
+parallel: Error: Output is incomplete.
+parallel: Error: Cannot append to buffer file in /work/9035576.tmpdir.
+parallel: Error: Is the disk full?
+parallel: Error: Change $TMPDIR with --tmpdir or use --compress.
